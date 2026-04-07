@@ -1,6 +1,6 @@
 # SecureAI Monitor
 
-> AI-powered security monitoring and anomaly detection platform for modern applications.
+> AI security monitoring and anomaly detection platform for modern applications.
 
 SecureAI Monitor is a production-ready system designed to detect suspicious activity, analyze logs in real-time, and provide intelligent alerts using machine learning.
 
